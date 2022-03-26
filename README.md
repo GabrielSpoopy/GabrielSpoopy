@@ -2,7 +2,7 @@
 
 - 🔭 Hoje estou desenvolvendo jogos em Game Maker Studio 2
 - 🌱 Estudando HTML e CSS
-- ⚡ Gosto de café :)
+- ⚡ Gosto de cafe :)
 
 <div>
   <a href="https://github.com/GabrielSpoopy">
