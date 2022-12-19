@@ -1,8 +1,10 @@
 ### Hello Hello
 
-- 🔭 Hoje sou estudante
-- 🌱 Estudando Python
-- ⚡ viciado em cafe :)
+## ΣF = m.a   May the Force be with you.
+- 😝 Today I'm a student
+- 🌠 I LOVE PHYSICS
+- 💻 studyig hacking & python
+- ⚡ I love coffee
 
 <div>
   <a href="https://github.com/GabrielSpoopy">
