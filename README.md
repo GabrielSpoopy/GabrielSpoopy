@@ -1,6 +1,6 @@
 ### Hello Hello
 
-## ΣF = m.a   May the Force be with you.
+## ΣF = m.a        May the Force be with you.
 - 😝 Today I'm a student
 - 🌠 I LOVE PHYSICS
 - 💻 studyig hacking & python
