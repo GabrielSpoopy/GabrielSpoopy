@@ -1,9 +1,9 @@
 ### Hello Hello
 
-## ΣF = m.a        May the Force be with you.
+## May the m.d²x/dt² be with you. 
 - 😝 Today I'm a student
 - 🌠 I LOVE PHYSICS
-- 💻 studyig hacking & python
+- 💻 studyig hacking & programming
 - ⚡ I love coffee
 
 <div>
